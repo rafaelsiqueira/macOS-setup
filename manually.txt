@@ -1,0 +1,5 @@
+List of apps to be installed manually:
+
+- XCode (Latest and 8.2.1)
+- Suite iWork
+
